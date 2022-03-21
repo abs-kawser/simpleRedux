@@ -43,6 +43,7 @@ h4 {
   text-align: center;
   line-height: 33px;
   font-size: 20px;
+  cursor: pointer;
 }
 .quantity__minus:hover,
 .quantity__plus:hover {
@@ -51,6 +52,7 @@ h4 {
 }
 .quantity__minus {
   border-radius: 3px 0 0 3px;
+  cursor: pointer;
 }
 .quantity__plus {
   border-radius: 0 3px 3px 0;
